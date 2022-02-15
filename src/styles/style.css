@@ -1,0 +1,24 @@
+
+
+body {
+    display:flex ;
+    justify-content:left;
+}
+h1 {
+    color: blueviolet;
+}
+
+li{
+    color: chartreuse;
+    size: 0mm;
+}
+
+.Fracaso{
+    color: rgb(42, 116, 165);
+}
+.wrapper {
+    width:1200px;
+    background-color:pink;
+    height: 200uh;
+}
+
